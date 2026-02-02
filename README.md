@@ -1,5 +1,7 @@
 # 🚐 Dashboard de Controle de Abastecimento
 
+![Screenshot do Dashboard](./Dashboard-Abastecimento.jpg)
+
 **Atenção: Dados fictícios utilizados para fins de demonstração.**
 
 Este projeto foi desenvolvido para realizar o controle rigoroso dos dados de abastecimento de veículos, transformando informações de notas fiscais em indicadores operacionais.
